@@ -1,1 +1,1 @@
-# pic16f887board
+El objetivo de este repositorio es compartir el hardware propuesto para la práctica de laboratorio de electrónica. Particularmente con microcontroladores del tipo PIC16F887. La idea es contar con un recurso para diversas actividades, donde podamos observar el comportamiento del pic a través de periféricos varios, así como también a través del universal serial data o USB; para lo cual se añade el conversor CH340.
